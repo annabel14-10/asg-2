@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main()
+{
+	char nama[100]="Annabel Oktaviani Putri";
+	char lang[100]="python";
+	printf("My name is %s and my favorite programming language is %s.\n", nama, lang);
+	return 0;
+}
